@@ -1,0 +1,206 @@
+@media(max-width:376px){
+    .main-list {
+    display: grid;
+    gap: 2px;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+}
+                      
+.sec-1 {
+    background-color: #FEF7F2 !important;
+    margin: -85px 0px !important;
+}
+.dream-flex {
+    display: block !important;
+}
+.popular-bar {
+    grid-template-columns: 1fr !important;
+}
+.footer-flex {
+    display: block !important;
+    gap:0px;
+}
+
+.main-expert-guidance {
+    display: block !important;
+}
+.wya p {
+    margin: 0 !important;
+}
+.question-main h2 {
+    font-size: 24px !important;
+    margin: 0 !important;
+}
+.question-main {
+    padding: 33px 0 !important;
+}
+
+.icon-main {
+    display: block !important ;
+    margin: 0px !important;
+}
+
+.About-Dwello h2 {
+    margin: 0 !important;
+}
+.form-input {
+    width: 100%;
+}
+.image {
+    width: 385px !important;
+    height: 385px !important;
+}
+.home-img {
+    right: 38px !important;
+}
+.luxurious-main {
+    display: block;
+  
+}
+
+ .header {
+
+  .main-flex {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+  }
+
+  /* menu hidden by default */
+  .list {
+    flex-direction: column;
+    display: none;
+    width: 100%;
+    padding: 10px 0;
+  }
+
+  .list.active {
+    display: flex;
+  }
+
+  .img-flex {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  /* optional: make icons smaller */
+  .img-flex img {
+    width: 20px;
+  }
+
+} 
+
+.luxurious-main {
+    display: block !important;
+    padding: 0 0 !important;
+   
+}
+
+.house8k-main {
+    display: block !important;
+}
+
+img.home-3 {
+    width: 302px;
+}
+
+.San-Francisco-California-main {
+    width: fit-content !important;
+}
+
+.Expert-guidance {
+    margin: 23px;
+}
+.dream-home h2 {
+    font-weight: 600 !important;
+    font-size: 37px !important;
+    text-align: center;
+    padding-top: 13px !important;
+}
+.dream-home p {
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    line-height: 21px !important;
+    margin: 39px 0 !important;
+}
+
+.btn-1 {
+    padding: 11px 23px !important;
+}
+
+.location-main {
+    width: 356px !important;
+    height: 258px !important;
+}
+.position {
+    position: static !important;
+}
+.location-bar {
+    margin: 11px 24px !important;
+    display: block !important;
+}
+.loco-pedding {
+    padding: 7px 20px !important;
+}
+.img-2 {
+    width: 300px !important;
+    height: 350px !important;
+    padding: 0px 0 0 0;
+}
+.w-50 {
+    padding: 0px 0px 0px 0px !important;
+    width: fit-content !important;
+}
+.w-50 h2 {
+    font-size: 27px !important;
+}
+.dream-home {
+    width: fit-content !important;
+}
+.wya h2 {
+    font-size: 38px !important;
+}
+.About-Dwello h2 {
+    font-size: 31px !important;
+    padding-top: 22px !important;
+}
+
+.slider-main {
+    padding: 12px 0px !important;
+}
+input[type=email] {
+    margin: 14px 0 !important;
+}
+.footer-flex {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+     gap: 23px !important;
+}
+.footer {
+    padding: 28px 0px 22px 26px !important;
+}
+.About h2 {
+    font-size: 22px;
+    margin: 4px 0;
+}
+.About p {
+    font-size: 13px !important;
+    line-height: 80% !important;
+}
+.footer-logo p {
+    font-size: 15px !important;
+    line-height: 106% !important;
+}
+.our h2 {
+    font-size: 24px !important;
+    line-height: 106% !important;
+    padding: 2px !important;
+    margin-bottom: 18px;
+}
+.sing-btn-1{
+    padding: 12px 0 !important;
+}
+}
